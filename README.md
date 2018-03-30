@@ -26,12 +26,12 @@ As a CRM Manager, I was responsible for Travelex's email marketing which was reg
 
 During my time at Makers, I have worked on many projects, both independently and in pairs/teams. The below projects are the ones of which I'm most proud, and I believe they showcase well the progress I have made since starting at Makers.
 
-| Project         | Description     | Technologies    | Testing Framework |
-| :------------: | :-------------: | :-------------: | :-------------: |
-| [Competition Twitter Bot ](https://github.com/Jestfer/chillJam)<br><br> Week 9 Team Project | A Twitter bot which retweets and likes tweets with the hashtag #competition and a user-inputted search term | Javascript, Node, Express, HTML, CSS | Mocha, Chai, Zombie, Istanbul |
-| [Instagram Clone](https://github.com/hannahlillis/instagram-challenge)<br><br>Week 8 Individual Weekend Challenge  | An Instagram-style web app which allows the user to add and delete images, post comments and like images | Ruby, Rails, HTML, CSS | RSpec, Capybara, Selenium |
-|[Rock, Paper, Scissors](https://github.com/hannahlillis/rps-challenge) <br><br>Week 3 Individual Weekend Challenge | A web application allowing the user to play Rock, Paper, Scissors against the computer | Ruby, Sinatra, HTML, CSS | RSpec, Capybara, Selenium |
-| [Takeaway](https://github.com/hannahlillis/takeaway-challenge)<br><br>Week 2 Individual Weekend Challenge | A takeaway app, in which the user can create an order with items from the menu and checkout, which will send them a confirmation text| Ruby | RSpec |
+| Project         | Week           | Description     | Technologies    | Testing Framework |
+| :------------: | :------------:  | :-------------: | :-------------: | :-------------: |
+| [Competition Twitter Bot ](https://github.com/Jestfer/chillJam) | Week 9 Team Project | A Twitter bot which retweets and likes tweets with the hashtag #competition and a user-inputted search term | Javascript, Node, Express, HTML, CSS | Mocha, Chai, Zombie, Istanbul |
+| [Instagram Clone](https://github.com/hannahlillis/instagram-challenge) | Week 8 Individual Challenge  | An Instagram-style web app which allows the user to add and delete images, post comments and like images | Ruby, Rails, HTML, CSS | RSpec, Capybara, Selenium |
+|[Rock, Paper, Scissors](https://github.com/hannahlillis/rps-challenge) | Week 3 Individual Challenge | A web application allowing the user to play Rock, Paper, Scissors against the computer | Ruby, Sinatra, HTML, CSS | RSpec, Capybara, Selenium |
+| [Takeaway](https://github.com/hannahlillis/takeaway-challenge) | Week 2 Individual Challenge | A takeaway app, in which the user can create an order with items from the menu and checkout, which will send them a confirmation text| Ruby | RSpec |
 
 
 ## Education
@@ -66,4 +66,4 @@ Highly selective, full-time programming bootcamp which teaches the following tec
 *Assistant Director*  
 
 ## Interests
-I'm an avid theatre fan, particularly musical theatre. I am also a keen baker, and dream of owning my own baking business in the future. 
+I'm an avid theatre fan, particularly musical theatre. I am also a keen baker, and dream of owning my own baking business in the future.
