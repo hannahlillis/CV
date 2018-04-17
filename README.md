@@ -28,7 +28,7 @@ During my time at Makers, I have worked on many projects, both independently and
 
 | Project         | Week           | Description     | Technologies    | Testing Framework |
 | :------------: | :------------:  | :-------------: | :-------------: | :-------------: |
-| [LocalizR](https://github.com/hannahlillis/LocalizR) | Week 11/12 Final Team Project | An interactive application to teach useful phrases in foreign languages | Javascript, MongoDB, Mongoose, React, Node, Express | Jest, Enzyme, Cypress |
+| [LocalizR](https://github.com/hannahlillis/LocalizR) | Week 11/12 Team Project | An interactive application to teach useful phrases in foreign languages. This was our final project at Makers and was showcased on Demo Day | Javascript, MongoDB, Mongoose, React, Node, Express | Jest, Enzyme, Cypress |
 | [Competition Twitter Bot](https://github.com/Jestfer/chillJam) | Week 9 Team Project | A Twitter bot which retweets and likes tweets with the hashtag #competition and a user-inputted search term | Javascript, Node, Express, HTML, CSS | Mocha, Chai, Zombie, Istanbul |
 | [Instagram Clone](https://github.com/hannahlillis/instagram-challenge) | Week 8 Individual Challenge  | An Instagram-style web app which allows the user to add and delete images, post comments and like images | Ruby, Rails, HTML, CSS | RSpec, Capybara, Selenium |
 |[Rock, Paper, Scissors](https://github.com/hannahlillis/rps-challenge) | Week 3 Individual Challenge | A web application allowing the user to play Rock, Paper, Scissors against the computer | Ruby, Sinatra, HTML, CSS | RSpec, Capybara, Selenium |
